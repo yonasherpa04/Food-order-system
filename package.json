@@ -1,0 +1,8 @@
+{
+    "name": "Food-order-system",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "yangchensherpa",
+    "contributors": [],
+    "dependencies": {}
+}
